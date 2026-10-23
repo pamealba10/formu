@@ -1,16 +1,20 @@
-# React + Vite
+# Proyecto - Primera Entrega
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es la base para el desarrollo de un formulario inicial, que después será una aplicación web construida con **React** y **Vite**, que integra **Tailwind CSS** para un diseño moderno y responsivo, y **React Hook Form** para la gestión y validación eficiente de formularios.
 
-Currently, two official plugins are available:
+![Texto alternativo que describe la imagen](./public/foto1.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologías Utilizadas
 
-## React Compiler
+*   [React](https://reactjs.org/) - Biblioteca para interfaces de usuario.
+*   [Vite](https://vitejs.dev/) - Herramienta de construcción y servidor de desarrollo.
+*   [Tailwind CSS](https://tailwindcss.com/) - Framework de CSS para estilos rápidos.
+*   [React Hook Form](https://react-hook-form.com/) - Gestión y validación de formularios.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Instalación y Uso Local
 
-## Expanding the ESLint configuration
+Si deseas correr este proyecto en tu máquina local, sigue estos pasos:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
